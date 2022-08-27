@@ -91,11 +91,17 @@ span{
     transition: bottom 1s, left 1s;
 }
 
+.images .tahjib {
+    border-radius: 50%;
+    width: 400px; height: 400px;
+    bottom: 100px;
+}
+
 .images:hover .shape{
     bottom: 40px;
 }
 
-.images:hover .girl{
+.images:hover .tahjib{
     left: 45%;
 }
 
